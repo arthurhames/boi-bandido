@@ -1,0 +1,15 @@
+section {
+    padding: 20px 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+.cabecalho{
+    color: rgb(255, 38, 0);
+    align-items: center;
+}
+.boi img{
+    width: 40vw;
+}
+.a{
+    color: blue;
+}
